@@ -1,6 +1,6 @@
 # Aruba-6100-Switch-Installation-Guide
 
-INSTALL GNU SCREEN
+INSTALL GNU SCREEN ON LINUX DISTRO
 
 #***************************************************************************************************
 # SW-ARUBA-6100-XX
