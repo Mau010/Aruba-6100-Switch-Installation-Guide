@@ -10,6 +10,7 @@ DMESG = to localize switch
 # SW-ARUBA-6100-XX
 #***************************************************************************************************
 conf
+
 hostname SW-ARUBA-6100-X
 interface vlan 1
 ip address 172.21.39.6X/22
