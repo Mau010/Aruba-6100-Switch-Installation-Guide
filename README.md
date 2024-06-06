@@ -1,6 +1,7 @@
 # Aruba-6100-Switch-Installation-Guide
 
 INSTALL GNU SCREEN ON LINUX DISTRO
+DMESG = to localize switch
 
 #***************************************************************************************************
 # SW-ARUBA-6100-XX
