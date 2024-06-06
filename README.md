@@ -1,5 +1,8 @@
 # Aruba-6100-Switch-Installation-Guide
 
+
+screen /dev/tty "porta q ta conectado" "velocidade"
+
 INSTALL GNU SCREEN ON LINUX DISTRO
 DMESG = to localize switch
 
