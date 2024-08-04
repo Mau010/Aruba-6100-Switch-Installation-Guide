@@ -57,9 +57,19 @@ snmp-server community secel
 snmp-server system-contact Equipe de Redes - SECEL-MT
 snmp-server system-location Datacenter - SECEL-MT
 snmp-server system-description Switch Aruba 6100 48p
+ip route 0.0.0.0/0 192.10.10.10
 ```
 
-### 3. Salvar a Configuração
+### 3. Configure a Senha
+
+Altere a senha padrão do usuário.
+
+```
+config
+user admin plaintext
+```
+
+### 4. Salvar a Configuração
 
 Salve as configurações feitas no switch:
 
